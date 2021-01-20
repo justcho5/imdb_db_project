@@ -1,4 +1,4 @@
-# Database project
+# IMDB User Interface and Database Project
 
 Internet Movie Database
 * An online database of information on films, tv programs, video games, internet streams, including information about cast, production, biographies, plots summaries, trivia, and fan reviews/ratings
